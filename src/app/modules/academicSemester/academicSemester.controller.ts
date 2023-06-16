@@ -8,7 +8,7 @@ const createSemester = async (
 ) => {
   try {
     const { ...academicSemesterData } = req.body;
-    console.log(req.body);
+
     const result = await AcademicSemesterService.createSemester(
       academicSemesterData
     );

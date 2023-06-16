@@ -79,6 +79,11 @@
             "date": 1686909866493,
             "name": "C:\\typescript\\webdotTow\\university-management-auth-service\\logs\\winston\\errors\\AHT-2023-16-06-16-error.log",
             "hash": "7862735d3139ac2902b456c656247faad8eb704c9ade756b9dc9528952a0b05d"
+        },
+        {
+            "date": 1686915591617,
+            "name": "C:\\typescript\\webdotTow\\university-management-auth-service\\logs\\winston\\errors\\AHT-2023-16-06-17-error.log",
+            "hash": "0e14926bcbc86ec4eba15c7474450821851fb66de7de02948e8c824db58eb5a8"
         }
     ],
     "hashType": "sha256"
