@@ -1,0 +1,7 @@
+{"level":"info","message":"🔥Database connected🔥","service":"user-service"}
+{"level":"info","message":"Server is listening on port 5000","service":"user-service"}
+{"level":"info","message":"🔥Database connected🔥","service":"user-service"}
+{"level":"info","message":"Server is listening on port 5000","service":"user-service"}
+{"level":"error","message":"failed to connect Database","service":"user-service"}
+{"level":"info","message":"🔥Database connected🔥","service":"user-service"}
+{"level":"info","message":"Server is listening on port 5000","service":"user-service"}

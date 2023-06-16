@@ -1,0 +1,85 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\typescript\\webdotTow\\university-management-auth-service\\logs\\winston\\successes\\.35593a3dff9f99cd4b52115eebac01aaea2b94a9-audit.json",
+    "files": [
+        {
+            "date": 1686745539380,
+            "name": "C:\\typescript\\webdotTow\\university-management-auth-service\\logs\\winston\\successes\\AHT-2023-14-06-18-success.log",
+            "hash": "052d7412a2e8b608ca71f7076a0fa32489b9a983353c59cc1aba95b51156dbe0"
+        },
+        {
+            "date": 1686751100377,
+            "name": "C:\\typescript\\webdotTow\\university-management-auth-service\\logs\\winston\\successes\\AHT-2023-14-06-19-success.log",
+            "hash": "ee352009204da7d5567825c32ac50f76b521c9d990de19bd62b3ddb556cb7349"
+        },
+        {
+            "date": 1686751391086,
+            "name": "C:\\typescript\\webdotTow\\university-management-auth-service\\logs\\winston\\successes\\AHT-2023-14-06-20-success.log",
+            "hash": "5f0828b931e68432511558f7a0fa2a68936fddfc105e125b77fcfb1a3329ece9"
+        },
+        {
+            "date": 1686768543870,
+            "name": "C:\\typescript\\webdotTow\\university-management-auth-service\\logs\\winston\\successes\\AHT-2023-15-06-00-success.log",
+            "hash": "74d36e8b0b598655dbc00bb5f7b7d04ff1d63c817eadcec5892802cd142b9875"
+        },
+        {
+            "date": 1686769804071,
+            "name": "C:\\typescript\\webdotTow\\university-management-auth-service\\logs\\winston\\successes\\AHT-2023-15-06-01-success.log",
+            "hash": "723e262a50c7df2f4171996b0d245afda51667880f381ab47a051d5aeff10240"
+        },
+        {
+            "date": 1686806050416,
+            "name": "C:\\typescript\\webdotTow\\university-management-auth-service\\logs\\winston\\successes\\AHT-2023-15-06-11-success.log",
+            "hash": "48987d258b9b3f643f89eba66182d2732bce51ab05c913baa13e3f5bef5e9ef8"
+        },
+        {
+            "date": 1686813457933,
+            "name": "C:\\typescript\\webdotTow\\university-management-auth-service\\logs\\winston\\successes\\AHT-2023-15-06-13-success.log",
+            "hash": "b1e1ff805de3e29200842ae610b73dedabdddf6c665e7f5f47bcfaae7de3b916"
+        },
+        {
+            "date": 1686816049226,
+            "name": "C:\\typescript\\webdotTow\\university-management-auth-service\\logs\\winston\\successes\\AHT-2023-15-06-14-success.log",
+            "hash": "e5b619ab73d09738799b34879b62689627e37b6496eff3cdffaf10b0334bdb84"
+        },
+        {
+            "date": 1686823336951,
+            "name": "C:\\typescript\\webdotTow\\university-management-auth-service\\logs\\winston\\successes\\AHT-2023-15-06-16-success.log",
+            "hash": "40f83f065e9e873ff97d372a2e087289fbaada9ec779dc8e65057629f490bbc0"
+        },
+        {
+            "date": 1686840119758,
+            "name": "C:\\typescript\\webdotTow\\university-management-auth-service\\logs\\winston\\successes\\AHT-2023-15-06-20-success.log",
+            "hash": "0163fef5e09c57fab422446f241e19811193be9804c8033dcec98a47f2631e29"
+        },
+        {
+            "date": 1686849232834,
+            "name": "C:\\typescript\\webdotTow\\university-management-auth-service\\logs\\winston\\successes\\AHT-2023-15-06-23-success.log",
+            "hash": "49fdd12c548100a31e4e393e0d3e775f843e726fb912534f372abf61f42c5ec7"
+        },
+        {
+            "date": 1686852246083,
+            "name": "C:\\typescript\\webdotTow\\university-management-auth-service\\logs\\winston\\successes\\AHT-2023-16-06-00-success.log",
+            "hash": "804779ab45f4a3148cb554d477ad2f6dde4e2deca4fa23ca09676742e7232150"
+        },
+        {
+            "date": 1686858173329,
+            "name": "C:\\typescript\\webdotTow\\university-management-auth-service\\logs\\winston\\successes\\AHT-2023-16-06-01-success.log",
+            "hash": "249188c0e0282469808990c453d96da8029c28161ae70de75124b036fd0a0db3"
+        },
+        {
+            "date": 1686909275503,
+            "name": "C:\\typescript\\webdotTow\\university-management-auth-service\\logs\\winston\\successes\\AHT-2023-16-06-15-success.log",
+            "hash": "8d0f8defb0882f492319a50cb5f9873c8da4c23715f07366ed92ae72be1b4db2"
+        },
+        {
+            "date": 1686909866486,
+            "name": "C:\\typescript\\webdotTow\\university-management-auth-service\\logs\\winston\\successes\\AHT-2023-16-06-16-success.log",
+            "hash": "2fa01abaf5fdba8bd8c1677f9eb7ef875596d87823df1dc9693da56ef5d006d8"
+        }
+    ],
+    "hashType": "sha256"
+}

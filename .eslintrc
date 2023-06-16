@@ -13,12 +13,19 @@
   ],
 
   "rules": {
+    // "no-console": "error",
+    // "no-unused-expressions": "error",
+    // "no-unreachable": "error"
     "@typescript-eslint/no-unused-vars": "error",
     "@typescript-eslint/consistent-type-definitions": ["error", "type"]
   },
 
   "env": {
     "browser": true,
-    "es2021": true
+    "es2021": true,
+    "node": true
+  },
+  "globals": {
+    "process": "readonly"
   }
 }
