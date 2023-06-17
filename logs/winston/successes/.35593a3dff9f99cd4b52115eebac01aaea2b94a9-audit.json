@@ -139,6 +139,11 @@
             "date": 1687032924105,
             "name": "C:\\typescript\\webdotTow\\university-management-auth-service\\logs\\winston\\successes\\AHT-2023-18-06-02-success.log",
             "hash": "c1da8321ca0acdb57ae754404ccf5d5e10bda9e753469a67c848cd813c097330"
+        },
+        {
+            "date": 1687035749324,
+            "name": "C:\\typescript\\webdotTow\\university-management-auth-service\\logs\\winston\\successes\\AHT-2023-18-06-03-success.log",
+            "hash": "48507742467251cee79dc5619534c912143431fb16eef54c41efdcc14cb171ff"
         }
     ],
     "hashType": "sha256"
