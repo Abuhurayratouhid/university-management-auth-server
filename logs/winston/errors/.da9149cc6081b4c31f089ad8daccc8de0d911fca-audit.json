@@ -84,6 +84,21 @@
             "date": 1686915591617,
             "name": "C:\\typescript\\webdotTow\\university-management-auth-service\\logs\\winston\\errors\\AHT-2023-16-06-17-error.log",
             "hash": "0e14926bcbc86ec4eba15c7474450821851fb66de7de02948e8c824db58eb5a8"
+        },
+        {
+            "date": 1686917139843,
+            "name": "C:\\typescript\\webdotTow\\university-management-auth-service\\logs\\winston\\errors\\AHT-2023-16-06-18-error.log",
+            "hash": "e44458409ff00310845174f485917221de1e5c098ce82eb72bb1bf8484340cb0"
+        },
+        {
+            "date": 1686922563342,
+            "name": "C:\\typescript\\webdotTow\\university-management-auth-service\\logs\\winston\\errors\\AHT-2023-16-06-19-error.log",
+            "hash": "3fdf3dc6ad8cd96bb1a09142d822998433aac00fbf2de3a056b89285842b9f6d"
+        },
+        {
+            "date": 1686992597771,
+            "name": "C:\\typescript\\webdotTow\\university-management-auth-service\\logs\\winston\\errors\\AHT-2023-17-06-15-error.log",
+            "hash": "faced2ba1d09ec5e9f414c891561de09d0248a2dc93b6ed83afbd5921c0d2dbe"
         }
     ],
     "hashType": "sha256"
