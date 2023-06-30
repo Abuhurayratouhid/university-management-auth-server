@@ -5,8 +5,8 @@ import sendResponse from '../../../shared/sendResponse';
 import status from 'http-status';
 
 const createUser = catchAsync(async (req: Request, res: Response) => {
-  const { user } = req.body;
-  const result = await usersService.createUser(user);
+  const { ...userData } = req.body;
+  const result = await usersService.createUser(userData);
   // res.status(200).json({
   //   success: true,
   //   message: 'User created successfully',
