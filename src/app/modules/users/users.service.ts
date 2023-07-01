@@ -8,8 +8,6 @@ import { User } from './users.model';
 import { generateStudentId } from './users.utils';
 import { Student } from '../student/student.model';
 import httpStatus from 'http-status';
-// import { generateStudentId } from './users.utils';
-// import { generateUserId } from './users.utils';
 
 const createStudent = async (
   student: IStudent,
@@ -26,6 +24,11 @@ const createStudent = async (
   if (!user.password) {
     user.password = config.default_student_pass as string;
   }
+  // hash password
+  // user.password = await bcrypt.hash(
+  //   user.password,
+  //   Number(config.bcrypt_salt_rounds)
+  // );
   //set role
   user.role = 'student';
 
