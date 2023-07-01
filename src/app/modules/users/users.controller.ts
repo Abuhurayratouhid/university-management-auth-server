@@ -4,9 +4,9 @@ import catchAsync from '../../../shared/catchAsync';
 import sendResponse from '../../../shared/sendResponse';
 import status from 'http-status';
 
-const createUser = catchAsync(async (req: Request, res: Response) => {
-  const { ...userData } = req.body;
-  const result = await usersService.createUser(userData);
+const createStudent = catchAsync(async (req: Request, res: Response) => {
+  const { student, ...userData } = req.body;
+  const result = await usersService.createStudent(student, userData);
   // res.status(200).json({
   //   success: true,
   //   message: 'User created successfully',
@@ -22,5 +22,5 @@ const createUser = catchAsync(async (req: Request, res: Response) => {
 });
 
 export default {
-  createUser,
+  createStudent,
 };
