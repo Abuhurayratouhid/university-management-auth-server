@@ -10,6 +10,7 @@ import {
 } from './academicSemester.constant';
 import status from 'http-status';
 import ApiError from '../../../errors/ApiError';
+
 const academicSemesterSchema = new Schema<IAcademicSemester>({
   title: {
     type: String,
@@ -17,7 +18,7 @@ const academicSemesterSchema = new Schema<IAcademicSemester>({
     enum: academicSemesterTitle,
   },
   year: {
-    type: Number,
+    type: String,
     required: true,
   },
   code: {
